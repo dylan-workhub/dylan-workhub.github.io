@@ -4,7 +4,7 @@ title: Hello
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## I make art.
 
 [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
